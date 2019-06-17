@@ -6,4 +6,5 @@ script: npm run test
 deploy:
   provider: heroku
   api_key:
-    secure: "e068637e-4e89-4d1f-b685-7ca10f63308c"
+  secure: "e068637e-4e89-4d1f-b685-7ca10f63308c"
+  app: test-josue
