@@ -2,11 +2,11 @@
   "name": "integracionContinua",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node server.js",
     "test": "jest",
-    "dev": "node src/index.js"
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",
