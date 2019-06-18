@@ -1,0 +1,19 @@
+{
+  "name": "travis-github-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josuer97/ejercicioCI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josuer97/ejercicioCI/issues"
+  },
+  "homepage": "https://github.com/josuer97/ejercicioCI#readme"
+}
